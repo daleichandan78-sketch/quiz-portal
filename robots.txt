@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electrical-mocktest.netlify.app/sitemap.xml
